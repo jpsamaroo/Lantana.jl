@@ -1,0 +1,11 @@
+name = "Lantana"
+uuid = "82ae2e8b-6e71-4c79-9c4e-b6c2d8a3229a"
+authors = ["jpsamaroo "]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+
+[compat]
+LinearAlgebra = "1.11.0"
+julia = "1.11"
